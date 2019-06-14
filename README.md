@@ -4,13 +4,14 @@ Projeto feito utilizando Qt Creator (QC), para disciplina de: Técnicas de Progr
 
 ## Sobre o BookShelf:
 
-O **BookShelf**é uma aplicação que ajuda a organizar livros da sua biblioteca pessoal.
+O **BookShelf** é uma aplicação que ajuda a organizar livros da sua biblioteca pessoal.
 
 ## Algumas funções:
-* Cadastra seus livros conforme dados fornecidos;
-* Salva Livros que você já leu;
-* Adiciona Livros que você está lendo;
-* Atribui informações sobre gênero, nota...
+* Cadastra seus livros conforme dados fornecidos ;
+* Salva Livros que você já leu ;
+* Adiciona Livros que você está lendo ;
+* Atribui informações sobre gênero, nota, etc...
+* Gera algumas estatísticas básicas sobre informações adicionadas ;
 * Extra: Acesso direto a sua biblioteca Online pelo Aplicativo Skoob.
 
 
@@ -18,7 +19,7 @@ Typically, this gem would be called as a preprocessor to a primary renderer, suc
 
 Despite its name, Legal Markdown is not actually dependent upon markdown. It is agnostic in this regard. Indeed, it does not depend on markdown, or any of its flavors at all and *should* work with rst, latex, ascii or other text based documents. If it does not work with these types of documents please let me know via Github Issues and we'll try to work out a solution.
 
-## Motivation
+## Manual de Utilização
 
 This gem was built specifically to empower the creation of structured legal documents using simple text based documents along with a primary renderer. This gem acts as a middle layer between document drafting and final document production by providing the user with access to structured headers, internal cross references, mixins, and other features that will greatly empower the use of text based documents to create and maintain structured legal documents.
 
