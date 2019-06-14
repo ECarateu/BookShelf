@@ -3,9 +3,12 @@ Projeto feito utilizando Qt Creator (QC), para disciplina de: Técnicas de Progr
 WatchList é uma aplicação que cadastra e gerencia filmes de acordo com dados fornecidos pelos usuários.
 
 
-## Sobre o Book Shelf
+## Sobre o BookShelf:
 
-This gem will parse YAML Front Matter of Markdown and other Text Based Documents. **It will work with more than only markdown**.
+O **BookShelf**.é uma aplicação que ajuda a organizar livros da sua biblioteca pessoal.
+
+## Algumas funções:
+
 
 Typically, this gem would be called as a preprocessor to a primary renderer, such as [Pandoc](http://johnmacfarlane.net/pandoc/), that would turn the document outputed by `legal_markdown` into a document such as a .pdf file, a .docx file, an .html file for web display. It is easy enough to build the gem into your work flow by calling the gem just before your primary processor builds your document.
 
