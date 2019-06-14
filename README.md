@@ -1,10 +1,9 @@
 # BookShelf
-#Projeto feito utilizando Qt Creator (QC), para disciplina de: Técnicas de Programação 2019.1. WatchList é uma aplicação que cadastra e gerencia filmes de acordo com dados fornecidos pelos usuários.
+Projeto feito utilizando Qt Creator (QC), para disciplina de: Técnicas de Programação 2019.1. 
+WatchList é uma aplicação que cadastra e gerencia filmes de acordo com dados fornecidos pelos usuários.
 
 
-[![Build Status](https://travis-ci.org/compleatang/legal-markdown.png)](https://travis-ci.org/compleatang/legal-markdown) [![Stories in Ready](https://badge.waffle.io/compleatang/legal-markdown.png?label=ready)](https://waffle.io/compleatang/legal-markdown) [![Coverage Status](https://coveralls.io/repos/compleatang/legal-markdown/badge.png?branch=master)](https://coveralls.io/r/compleatang/legal-markdown?branch=master) [![Code Climate](https://codeclimate.com/github/compleatang/legal-markdown.png)](https://codeclimate.com/github/compleatang/legal-markdown) [![Dependency Status](https://gemnasium.com/compleatang/legal-markdown.png)](https://gemnasium.com/compleatang/legal-markdown)
-
-## Introduction
+## Sobre o Book Shelf
 
 This gem will parse YAML Front Matter of Markdown and other Text Based Documents. **It will work with more than only markdown**.
 
