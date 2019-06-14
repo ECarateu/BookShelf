@@ -1,13 +1,17 @@
 # BookShelf
 Projeto feito utilizando Qt Creator (QC), para disciplina de: Técnicas de Programação 2019.1. 
-WatchList é uma aplicação que cadastra e gerencia filmes de acordo com dados fornecidos pelos usuários.
 
 
 ## Sobre o BookShelf:
 
-O **BookShelf**.é uma aplicação que ajuda a organizar livros da sua biblioteca pessoal.
+O **BookShelf**é uma aplicação que ajuda a organizar livros da sua biblioteca pessoal.
 
 ## Algumas funções:
+* Cadastra seus livros conforme dados fornecidos;
+* Salva Livros que você já leu;
+* Adiciona Livros que você está lendo;
+* Atribui informações sobre gênero, nota...
+* Extra: Acesso direto a sua biblioteca Online pelo Aplicativo Skoob.
 
 
 Typically, this gem would be called as a preprocessor to a primary renderer, such as [Pandoc](http://johnmacfarlane.net/pandoc/), that would turn the document outputed by `legal_markdown` into a document such as a .pdf file, a .docx file, an .html file for web display. It is easy enough to build the gem into your work flow by calling the gem just before your primary processor builds your document.
@@ -26,9 +30,7 @@ By combining this gem as a pre-processor along with a primary renderer, users ar
 
 It is very simple. But first you must have `ruby` installed on your system. Don't worry, it is not that difficult.
 
-* If you are on OS X then it comes standard on your machine and you do not need to do anything.
-* If you are on Windows then the easiest way to install ruby is install 1.9.3 or higher from [rubyinstaller](http://rubyinstaller.org/).
-* If you are on Linux, then you probably don't need help. If you do then just Google it for your your distro.
+
 
 Once you have ruby installed then you simply go to your terminal and type: `$> gem install legal_markdown`.
 
