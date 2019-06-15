@@ -26,7 +26,7 @@ O **BookShelf** é uma aplicação que ajuda a organizar livros da sua bibliotec
 Voce precisa cadastrar todos os dados sobre seu livro como: nome, nome do autor, numero de páginas...
 Quando terminar de preencher todas informações não se esqueça de clickar no botão **Cadastrar na Estante** , ok?
 
-![Como cadastrar seu livro BookShelf](pic/c.PNG)
+![Como cadastrar seu livro BookShelf](pic/caa.PNG)
 
 *OBS:, Só  são válidas notas de 1 á 10, e nomes com quantidade de letra superior a 2.*
 
@@ -60,7 +60,7 @@ Temos! No aplicativo há uma aba que voce pode acessar sua biblioteca virtual on
 ## AHH eu quase que me esquecia!
 
 Temos uma aba pata voce salvar seus livros em um arquivo txt!
-![Arquivos](pic/a.PNG)
+![Arquivos](pic/cn.PNG)
 
 
 # Espero que voce goste!
