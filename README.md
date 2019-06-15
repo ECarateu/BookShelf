@@ -60,7 +60,6 @@ Temos! No aplicativo há uma aba que voce pode acessar sua biblioteca virtual on
 ## AHH eu quase que me esquecia!
 
 Temos uma aba pata voce salvar seus livros em um arquivo txt!
-
 ![Arquivos](pic/arq.PNG)
 
 
