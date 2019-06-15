@@ -5,7 +5,7 @@ Projeto feito utilizando Qt Creator (QT), para disciplina de: Técnicas de Progr
 ## Sobre o BookShelf:
 
 O **BookShelf** é uma aplicação que ajuda a organizar livros da sua biblioteca pessoal.
-![Tela inicial do app BookShelf](pic/1.PNG)
+![Tela inicial do app BookShelf](pic/11.PNG)
 
 ## Algumas funções:
 * Cadastra seus livros conforme dados fornecidos ;
