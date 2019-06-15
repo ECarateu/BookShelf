@@ -1,5 +1,5 @@
 # BookShelf
-Projeto feito utilizando Qt Creator (QC), para disciplina de: Técnicas de Programação 2019.1. 
+Projeto feito utilizando Qt Creator (QT), para disciplina de: Técnicas de Programação 2019.1. 
 
 
 ## Sobre o BookShelf:
